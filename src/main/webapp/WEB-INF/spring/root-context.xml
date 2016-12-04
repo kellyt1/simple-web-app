@@ -23,5 +23,6 @@
 	</security:global-method-security>
 
 	<bean id="webexpressionHandler" class="org.springframework.security.web.access.expression.DefaultWebSecurityExpressionHandler" /> 
+           
 
 </beans>
